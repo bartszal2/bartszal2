@@ -7,3 +7,7 @@ My Tech Stack
 * ✔️ CSS / SASS
 * ✔️ JavaScript / TypeScript
 * ✔️ React / React Redux / React Router
+
+In the process of getting to know!
+* 🔎 Next
+* 🔎 React Testing Library / Jest
